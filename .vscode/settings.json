@@ -1,3 +1,63 @@
 {
     "liveServer.settings.port": 5501
-}
+}^C
+(base) laiszagati@My-MacBook-Pro spotifyapp % json-server --watch db.json --port 3000
+
+
+  \{^_^}/ hi!
+
+  Loading db.json
+(base) laiszagati@My-MacBook-Pro spotifyapp % rm db.json
+
+(base) laiszagati@My-MacBook-Pro spotifyapp % rm .
+api-artistsartists
+rm: .api-artistsartists: No such file or directory
+(base) laiszagati@My-MacBook-Pro spotifyapp % rm .api-artistsartists.json
+
+(base) laiszagati@My-MacBook-Pro spotifyapp % json-server watch artists.js
+on --port 3000
+
+  \{^_^}/ hi!
+
+  Loading watch
+Error: Unsupported source watch
+    at /usr/local/lib/node_modules/json-server/lib/cli/utils/load.js:66:13
+    at new Promise (<anonymous>)
+    at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/utils/load.js:28:10)
+    at start (/usr/local/lib/node_modules/json-server/lib/cli/run.js:90:12)
+    at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/run.js:129:3)
+    at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/index.js:76:3)
+    at Object.<anonymous> (/usr/local/lib/node_modules/json-server/lib/cli/bin.js:5:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/l^C
+    (base) laiszagati@My-MacBook-Pro spotifyapp % json-server --watch db.json --port 3000
+    
+    
+      \{^_^}/ hi!
+    
+      Loading db.json
+    (base) laiszagati@My-MacBook-Pro spotifyapp % rm db.json
+    
+    (base) laiszagati@My-MacBook-Pro spotifyapp % rm .
+    api-artistsartists
+    rm: .api-artistsartists: No such file or directory
+    (base) laiszagati@My-MacBook-Pro spotifyapp % rm .api-artistsartists.json
+    
+    (base) laiszagati@My-MacBook-Pro spotifyapp % json-server watch artists.js
+    on --port 3000
+    
+      \{^_^}/ hi!
+    
+      Loading watch
+    Error: Unsupported source watch
+        at /usr/local/lib/node_modules/json-server/lib/cli/utils/load.js:66:13
+        at new Promise (<anonymous>)
+        at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/utils/load.js:28:10)
+        at start (/usr/local/lib/node_modules/json-server/lib/cli/run.js:90:12)
+        at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/run.js:129:3)
+        at module.exports (/usr/local/lib/node_modules/json-server/lib/cli/index.js:76:3)
+        at Object.<anonymous> (/usr/local/lib/node_modules/json-server/lib/cli/bin.js:5:14)
+        at Module._compile (node:internal/modules/cjs/loader:1546:14)
+        at Object..js (node:internal/modules/cjs/loader:1689:10)
+        at Module.load (node:internal/modules/cjs/l
