@@ -47,7 +47,7 @@ json-server --watch api-artists/artists.json --port 5000
 
 🎯 Future Improvements
 
-Convert project to React for better componentization.
+Convert project to React for better componentization (Cheack in my repositories: Spotify-with-React ;) .
 
 Implement Spotify API for real-time music data.
 
